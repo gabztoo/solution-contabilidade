@@ -66,19 +66,19 @@ export default function Footer() {
                 <span className="footer-contact-icon">
                   <Phone size={18} />
                 </span>
-                <span>(91) 98224-3210</span>
+                <span>(11) 99999-9999</span>
               </li>
               <li className="footer-contact-item">
                 <span className="footer-contact-icon">
                   <Mail size={18} />
                 </span>
-                <span>contato@solutioncontabilidade.servicos</span>
+                <span>contato@solutioncontabilidade.com.br</span>
               </li>
               <li className="footer-contact-item">
                 <span className="footer-contact-icon">
                   <MapPin size={18} />
                 </span>
-                <span>Av. Governador José Malcher, 286<br />Sala 5102 – Nazaré – Belém/PA</span>
+                <span>Av. Paulista, 1000 - Bela Vista<br />São Paulo/SP (Atendimento Nacional)</span>
               </li>
               <li className="footer-contact-item">
                 <span className="footer-contact-icon">

@@ -2,7 +2,7 @@ import React from 'react';
 import { MessageCircle } from 'lucide-react';
 
 export default function WhatsAppFloat() {
-  const whatsappUrl = "https://wa.me/5591982243210?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Solution%20Contabilidade%20e%20gostaria%20de%20falar%20com%20um%20especialista.";
+  const whatsappUrl = "https://wa.me/5511999999999?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Solution%20Contabilidade%20e%20gostaria%20de%20falar%20com%20um%20especialista.";
 
   return (
     <div className="whatsapp-float">

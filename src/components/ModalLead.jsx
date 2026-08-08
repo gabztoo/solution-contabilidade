@@ -59,7 +59,7 @@ export default function ModalLead({ isOpen, onClose, modalType, onSubmitLead }) 
                   type="tel" 
                   id="leadPhone" 
                   className="form-control" 
-                  placeholder="(91) 98224-3210" 
+                  placeholder="(11) 99999-9999" 
                   required 
                   value={formData.phone}
                   onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
